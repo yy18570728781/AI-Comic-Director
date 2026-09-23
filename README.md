@@ -73,6 +73,20 @@
 
 ---
 
+## 🔗 Agent Drama 桌面端与无限画布
+
+如果你想直接使用桌面端工作台，可以查看 **Agent Drama AIGC**：
+
+- **Agent Drama 产品介绍 / 下载入口**：<https://github.com/yy18570728781/Agent-Drama>
+- **Agent Drama 官网 / 工作台入口**：<https://agentdrama.top>
+- **无限画布模块开源仓库**：<https://github.com/yy18570728781/AI-Comic-Director-Canvas>
+
+Agent Drama 的“无限画布”功能用于把剧本、分镜、角色、场景、图片、视频、音频和生成任务放到同一张画布里，通过节点和连线表达素材引用关系。比如角色图、场景图、首帧、尾帧、音频都可以作为下游图片或视频生成任务的参考，生成结果也会回到画布中继续使用。
+
+简单理解：**AI-Comic-Director** 更偏向开源短剧生产平台和本地部署；**AI-Comic-Director-Canvas** 是无限画布模块；**Agent Drama** 是面向创作者的桌面端和在线工作台入口，整合了无限画布、本地 ComfyUI、本地显卡算力、云端模型、豆包 / Codex / MCP 连接和公开画布案例。
+
+---
+
 ### 🐳 本地部署（推荐开发者）
 
 #### 首次部署
