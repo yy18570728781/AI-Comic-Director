@@ -78,6 +78,7 @@
 如果你想直接使用桌面端工作台，可以查看 **Agent Drama AIGC**：
 
 - **Agent Drama 产品介绍 / 下载入口**：<https://github.com/yy18570728781/Agent-Drama>
+- **Agent Drama 飞书教程 / 桌面端下载与安装说明**：<https://my.feishu.cn/wiki/BNyCwAkHbizOwRkLg5jcFDBnnMb>
 - **Agent Drama 官网 / 工作台入口**：<https://agentdrama.top>
 - **无限画布模块开源仓库**：<https://github.com/yy18570728781/AI-Comic-Director-Canvas>
 
